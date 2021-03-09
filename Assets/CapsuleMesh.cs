@@ -30,4 +30,10 @@ public class CapsuleMesh : MonoBehaviour
         light.gameObject.SetActive(true);
         
     }
+
+
+    private void OnTriggerExit(Collider other)
+    {
+        light.gameObject.SetActive(false);
+    }
 }

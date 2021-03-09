@@ -45,7 +45,6 @@ public class Character : MonoBehaviour
         {
             panel.SetActive(true);
             texto.gameObject.SetActive(true);
-            texto.enabled = true;
             texto.text = hitinfo.collider.name;
         }
         else {

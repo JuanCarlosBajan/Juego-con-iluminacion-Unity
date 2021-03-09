@@ -112,10 +112,10 @@ MonoBehaviour:
     y: 30
     width: 1522
     height: 757
-  m_MinSize: {x: 680, y: 492}
+  m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 0
-  controlID: 108
+  controlID: 65
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -137,10 +137,10 @@ MonoBehaviour:
     y: 0
     width: 1220
     height: 757
-  m_MinSize: {x: 403, y: 492}
+  m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 109
+  controlID: 66
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -162,10 +162,10 @@ MonoBehaviour:
     y: 0
     width: 1220
     height: 436
-  m_MinSize: {x: 403, y: 221}
-  m_MaxSize: {x: 8003, y: 4021}
+  m_MinSize: {x: 402, y: 221}
+  m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 110
+  controlID: 67
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -185,8 +185,8 @@ MonoBehaviour:
     y: 0
     width: 281
     height: 436
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -519,23 +519,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: b63b0000
-      m_LastClickedID: 15286
-      m_ExpandedIDs: ea3cffff603dfffffcb0fffffeb0ffffbeb2ffff68fbffff6afbffff003c0000
+      m_SelectedIDs: 183a0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Point Light
-        m_OriginalName: Point Light
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -63978
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -581,9 +581,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -5.9479313, y: 5.46321, z: 10.800128}
+    m_Target: {x: -5.461329, y: -0.64862067, z: 2.8885267}
     speed: 2
-    m_Value: {x: -5.9479313, y: 5.46321, z: 10.800128}
+    m_Value: {x: -5.461329, y: -0.64862067, z: 2.8885267}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -629,13 +629,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.12930079, y: 0.5737931, z: -0.092451565, w: 0.80358094}
+    m_Target: {x: -0.11935065, y: 0.7748566, z: -0.15343642, w: -0.6017144}
     speed: 2
-    m_Value: {x: 0.12928484, y: 0.5737223, z: -0.09244016, w: 0.8034818}
+    m_Value: {x: -0.11933571, y: 0.77475965, z: -0.15341721, w: -0.6016391}
   m_Size:
-    m_Target: 6.6635013
+    m_Target: 9.347231
     speed: 2
-    m_Value: 6.6635013
+    m_Value: 9.347231
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -725,20 +725,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Sounds
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 46
   m_LastFolders:
-  - Assets/Sounds
+  - Assets/Scripts
   m_LastFoldersGridSize: 46
   m_LastProjectPath: C:\Users\juanc\OneDrive\Escritorio\UVG\Trabajos Unity\Lab 8
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 72}
-    m_SelectedIDs: c0af0000
-    m_LastClickedID: 44992
-    m_ExpandedIDs: 00000000ea3a0000963c0000983c00009a3c00009c3c0000aea20000b2a20000
+    scrollPos: {x: 0, y: 40}
+    m_SelectedIDs: 623e0000
+    m_LastClickedID: 15970
+    m_ExpandedIDs: 00000000ee3a0000063e0000083e00000a3e00000c3e00000e3e0000103e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -766,7 +766,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000963c0000983c00009a3c00009c3c0000
+    m_ExpandedIDs: 00000000063e0000083e00000a3e00000c3e00000e3e0000103e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -885,4 +885,4 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 100
+  m_LastVerticalScrollValue: 0
